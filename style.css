@@ -1,0 +1,149 @@
+nav a{
+    margin: 84px;
+    text-decoration: none;
+    font-size: 20px;
+    color: dimgray;
+}
+
+nav{
+    margin: 0px;
+}
+
+header{
+    border: 2px solid lightskyblue;
+    border-radius: 15px;
+    background-color: lightblue;
+    margin: 0px;
+}
+
+header img{
+    width: 235px;
+    height: 130px;
+    margin: 5px;
+    border:1px solid navy;
+    border-radius: 15px;
+}
+
+.h{
+    border: none;
+    color: dimgray;
+}
+
+.hh{
+    border: none;
+    color: dimgray;
+    text-align: left;
+    margin: 2px
+}
+
+nav{
+    margin: 5px;
+    border: 2px solid lightgray;
+}
+
+h1{
+    text-align: center;
+    color: darkolivegreen;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+p{
+    color: seagreen;
+    border: 1px solid darkgreen;
+    padding: 5px;
+}
+
+.ppp{
+    border: 1px solid darkgreen;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightgreen;
+}
+
+h2{
+    text-align: center;
+    color: blueviolet;
+}
+
+h3{
+    text-align: center;
+    color: violet
+}
+
+.pp{
+    border: 1px solid royalblue;
+    color: darkslateblue;
+    padding: 5px;
+    margin: 5px;
+    background-color: mediumorchid;
+}
+
+.pes{
+    text-align: center;
+    color: darkorange;
+}
+
+.p{
+    border: 1px solid rgb(173, 133, 30);
+    color: rgba(216, 143, 6, 0.842);
+    padding: 5px;
+    margin:5px;
+    background-color: palegoldenrod;
+}
+
+.pppp{
+    color: rgba(182, 122, 70, 0.904);
+    text-align: center;
+    padding: 5px;
+    margin:5px;
+}
+
+.ppppp{
+    border: 1px solid rgba(190, 154, 108, 0.884);
+    color: rgba(143, 39, 39, 0.973);
+    padding: 5px;
+    margin:5px;
+    background-color: peru;
+}
+
+.pppppp{
+    border: 1px solid rgba(190, 154, 108, 0.884);
+    color: black;
+    padding: 5px;
+    margin:5px;
+    background-color: white;
+}
+
+.j{
+    color: rgba(182, 122, 70, 0.904);
+    text-align: center;
+    background-color: white;
+    border: none;
+}
+
+img{
+    width: 340px;
+    height: 280px;
+}
+
+footer{
+    border: 1px solid sienna;
+    margin: 0px
+}
+
+.lol{
+    text-decoration: none;
+    color: maroon;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    background-color: peru;
+}
+
+main{
+    background-color: lightcyan;
+    margin: 0px;
+}
